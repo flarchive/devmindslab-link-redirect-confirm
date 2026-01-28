@@ -1,0 +1,14 @@
+# English translations
+
+devmindslab-link-redirect-confirm:
+  admin:
+    settings:
+      whitelist_label: "Whitelist (domains without confirmation)"
+      whitelist_help: "Comma-separated domains, e.g. example.com, *.example.org"
+  forum:
+    modal:
+      title: "External link"
+      body: "You are about to leave the forum. Do you want to continue?"
+      link: "Destination: {url}"
+      cancel: "Cancel"
+      confirm: "Continue"

@@ -1,0 +1,50 @@
+:root {
+  --link-redirect-confirm-modal-max-width: 420px;
+  --link-redirect-confirm-buttons-gap: 12px;
+  --link-redirect-confirm-modal-padding: 20px;
+  --link-redirect-confirm-modal-radius: 12px;
+  --link-redirect-confirm-modal-bg: var(--body-bg, #fff);
+  --link-redirect-confirm-header-bg: transparent;
+  --link-redirect-confirm-title-color: inherit;
+  --link-redirect-confirm-body-color: inherit;
+  --link-redirect-confirm-overlay-bg: rgba(0, 0, 0, 0.35);
+}
+
+.LinkRedirectConfirmModal {
+  .Modal-backdrop {
+    background: var(--link-redirect-confirm-overlay-bg);
+  }
+
+  .Modal-content {
+    max-width: var(--link-redirect-confirm-modal-max-width);
+    border-radius: var(--link-redirect-confirm-modal-radius);
+    background: var(--link-redirect-confirm-modal-bg);
+  }
+
+  .Modal-header {
+    background: var(--link-redirect-confirm-header-bg);
+  }
+
+  .Modal-title {
+    color: var(--link-redirect-confirm-title-color);
+  }
+
+  .Modal-body {
+    padding: var(--link-redirect-confirm-modal-padding);
+    color: var(--link-redirect-confirm-body-color);
+
+    .LinkRedirectConfirmModal-link {
+      word-break: break-all;
+      margin-top: 6px;
+      opacity: 0.8;
+      font-size: 0.9em;
+    }
+
+    .Form-group {
+      display: flex;
+      gap: var(--link-redirect-confirm-buttons-gap);
+      align-items: center;
+      justify-content: center;
+    }
+  }
+}
