@@ -1,0 +1,14 @@
+# German translations
+
+devmindslab-link-redirect-confirm:
+  admin:
+    settings:
+      whitelist_label: "Whitelist (Domains ohne Bestätigung)"
+      whitelist_help: "Kommagetrennte Domains, z. B. example.com, *.example.org"
+  forum:
+    modal:
+      title: "Externer Link"
+      body: "Du verlässt jetzt das Forum. Möchtest du fortfahren?"
+      link: "Ziel: {url}"
+      cancel: "Abbrechen"
+      confirm: "Bestätigen"
