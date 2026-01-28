@@ -1,0 +1,25 @@
+{
+  "name": "devmindslab/link-redirect-confirm",
+  "description": "Require confirmation before opening external links posted in Flarum.",
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^1.8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "DevmindsLab\\LinkRedirectConfirm\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "id": "devmindslab-link-redirect-confirm",
+      "title": "External Link Confirmation",
+      "icon": {
+        "name": "fas fa-external-link-alt",
+        "backgroundColor": "#1b7f79",
+        "color": "#ffffff"
+      }
+    }
+  }
+}
