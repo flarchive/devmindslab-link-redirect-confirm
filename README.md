@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of devmindslab/link-redirect-confirm.** Not for installation: use [Packagist](https://packagist.org/packages/devmindslab/link-redirect-confirm) or the [upstream repository](https://github.com/DevMindsLab/link-redirect-confirm).
 
-**0** versions archived · Latest: [`v1.0.4`](https://github.com/flarchive/devmindslab-link-redirect-confirm/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^1.8.0`
+**5** versions archived · Latest: [`v1.0.4`](https://github.com/flarchive/devmindslab-link-redirect-confirm/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-01-28 | `^1.8.0` | [Browse](https://github.com/flarchive/devmindslab-link-redirect-confirm/tree/archive/v1.0.0) |
+| `v1.0.1` | 2026-01-28 | `^1.8.0` | [Browse](https://github.com/flarchive/devmindslab-link-redirect-confirm/tree/archive/v1.0.1) |
+| `v1.0.2` | 2026-01-28 | `^1.8.0` | [Browse](https://github.com/flarchive/devmindslab-link-redirect-confirm/tree/archive/v1.0.2) |
+| `v1.0.3` | 2026-01-28 | `^1.8.0` | [Browse](https://github.com/flarchive/devmindslab-link-redirect-confirm/tree/archive/v1.0.3) |
+| `v1.0.4` | 2026-01-28 | `^1.8.0` | [Browse](https://github.com/flarchive/devmindslab-link-redirect-confirm/tree/archive/v1.0.4) |
 
 Catalog entry: [packages/devmindslab-link-redirect-confirm.json](https://github.com/flarchive/archive-index/blob/main/packages/devmindslab-link-redirect-confirm.json)
 
